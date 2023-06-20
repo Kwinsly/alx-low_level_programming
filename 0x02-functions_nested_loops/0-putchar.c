@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - Entry point
- *
- * Return: Always  0 (Success)
+ * main - print _putchar
+ * is written by Kwinsly
+ * Return: 0
  */
 
 int main(void)
@@ -18,3 +18,4 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
+
